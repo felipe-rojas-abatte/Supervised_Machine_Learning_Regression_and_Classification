@@ -1,4 +1,4 @@
-# Supervised_Machine_Learning_Regression_and_Classification
+# Supervised Machine Learning Regression and Classification
 
 In the first course of the Machine Learning Specialization, you will:
   • Build machine learning models in Python using popular machine learning libraries NumPy and scikit-learn.
